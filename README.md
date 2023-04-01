@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
-
-- 📝 I regularly write articles on [https://www.emirhanarici.blog/](https://www.emirhanarici.blog/)
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
